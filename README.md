@@ -19,17 +19,12 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 
 "Soulshine" is a **fantasy dark survival** server for FIVEM that I'm developing solo. It's a large and ambitious project, and I'm actively looking for collaborators who share the same passion for creating unique gaming experiences. If you're interested in contributing to this exciting project, feel free to reach out!
 
-### Other Projects
-- [Project 2](#) - Description of another project
-
-## Images
-You can add images to showcase your work or setup. For example:
-
-![My Setup](https://via.placeholder.com/800x400.png?text=Your+Setup)
-
 ## Contact
 - [GitHub](https://github.com/emkeyhell)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:emkeyhell@gmail.com)
+- [Discord](https://discord.gg/jjsQU2bFBP)
+- [Twitch](https://www.twitch.tv/emkeyhell)
+- [Instagram](https://www.instagram.com/emkeyhell)
 
 Thanks for visiting my GitHub profile, and I look forward to collaborating with you!
 
