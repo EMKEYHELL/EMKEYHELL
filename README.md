@@ -14,7 +14,7 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 
 ## Projects
 
-### [Soulshine](https://r2.fivemanage.com/pub/phh1na1hqpyn.png)
+### ![Soulshine](https://r2.fivemanage.com/pub/phh1na1hqpyn.png)
 **Fantasy Dark Survival Server for FIVEM**
 
 "Soulshine" is a **fantasy dark survival** server for FIVEM that I'm developing solo. It's a large and ambitious project, and I'm actively looking for collaborators who share the same passion for creating unique gaming experiences. If you're interested in contributing to this exciting project, feel free to reach out!
