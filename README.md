@@ -1,3 +1,5 @@
+## ENGLISH
+
 # Hi, I'm Emkeyhell 👋
 
 I'm an IT enthusiast and self-taught developer. Over the past few years, I have been deeply passionate about the **FIVEM** world, especially programming in **LUA**. I hope to share some of my projects with you and contribute to the open-source community!
@@ -50,4 +52,59 @@ If you're interested in joining, feel free to get in touch!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emkeyhell)
 
 Thanks for visiting my GitHub profile, and I look forward to collaborating with you!
+
+## ITALIANO
+
+# Ciao, sono Emkeyhell 👋
+
+Sono un appassionato di informatica e uno sviluppatore autodidatta. Negli ultimi anni, mi sono appassionato al mondo di **FIVEM**, in particolare alla programmazione in **LUA**. Spero di condividere alcuni dei miei progetti con voi e contribuire alla comunità open-source!
+
+## Chi Sono
+- 🔭 Attualmente sto lavorando a progetti relativi a FIVEM e scripting in LUA.
+- 🌱 Sto costantemente imparando e migliorando le mie competenze in diversi linguaggi di programmazione.
+- 💬 Non esitare a chiedermi qualsiasi cosa su HTML, CSS, JavaScript, Python, TypeScript e Lua.
+- ⚡ Curiosità: sono affascinato dalle infinite possibilità di creare mondi virtuali.
+
+## Competenze
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+
+## Strumenti
+
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+
+## Progetti
+
+### ![Soulshine](https://r2.fivemanage.com/pub/phh1na1hqpyn.png)
+**Fantasy Dark Survival Server per FIVEM**
+
+"Soulshine" è un server di **fantasy dark survival** per FIVEM che sto sviluppando da solo. È un progetto ambizioso e di grandi dimensioni, e sto cercando attivamente collaboratori che condividano la stessa passione per creare esperienze di gioco uniche. Se sei interessato a contribuire a questo emozionante progetto, non esitare a contattarmi!
+
+## Dev Team
+
+### ![HappyCoding](https://r2.fivemanage.com/pub/cx3m5hqhh4k4.png)
+
+Il team di sviluppo dietro i miei progetti si chiama **Happycoding**, e operiamo dal 2016. Ci specializziamo in **grafica** e **sviluppo**, sempre guidati dalla passione per creare progetti innovativi insieme.
+
+Happycoding è un'organizzazione **no-profit**, nata per il puro amore della collaborazione e della creatività. Siamo sempre aperti ad accogliere nuovi collaboratori che vogliono unirsi a questa famiglia e contribuire ai nostri emozionanti progetti!
+
+Se sei interessato a unirti, non esitare a contattarci!
+
+## Contatti
+
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emkeyhell)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emkeyhell@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jjsQU2bFBP)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/emkeyhell)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emkeyhell)
+
+Grazie per aver visitato il mio profilo GitHub, non vedo l'ora di collaborare con te!
 
