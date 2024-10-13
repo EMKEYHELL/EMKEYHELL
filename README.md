@@ -33,6 +33,9 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 
 "Soulshine" is a **fantasy dark survival** server for FIVEM that I'm developing solo. It's a large and ambitious project, and I'm actively looking for collaborators who share the same passion for creating unique gaming experiences. If you're interested in contributing to this exciting project, feel free to reach out!
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg) [WORK IN PROGRESS]
+[![Download FIVEM](https://img.shields.io/badge/Download-FIVEM-1F2D3A?style=for-the-badge&logo=fivem)](https://fivem.net/)
+
 ## Dev Team
 
 ### ![HappyCoding](https://r2.fivemanage.com/pub/cx3m5hqhh4k4.png)
