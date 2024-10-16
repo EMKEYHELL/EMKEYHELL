@@ -10,9 +10,7 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emkeyhell&layout=compact&theme=dark)](https://github.com/EMKEYHELL)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emkeyhell)](https://github.com/EMKEYHELL)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMKEYHELL)](https://github.com/EMKEYHELL)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
