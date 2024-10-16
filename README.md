@@ -8,7 +8,7 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 - 💬 Feel free to ask me anything about HTML, CSS, JavaScript, Python, TypeScript, and Lua.
 - ⚡ Fun fact: I'm fascinated by the limitless possibilities of creating virtual worlds.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMKEYHELL&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emkeyhell&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMKEYHELL&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emkeyhell&layout=compact)
 
 
 ## Skills
