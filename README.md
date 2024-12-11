@@ -3,7 +3,6 @@
 I'm an IT enthusiast and self-taught developer. Over the past few years, I have been deeply passionate about the **FIVEM** world, especially programming in **LUA**. I hope to share some of my projects with you and contribute to the open-source community!
 
 ## About Me
-- 🔭 I’m currently working on projects related to FIVEM and LUA scripting.
 - 🌱 I’m constantly learning and improving my skills in various programming languages.
 - 💬 Feel free to ask me anything about HTML, CSS, JavaScript, Python, TypeScript, and Lua.
 - ⚡ Fun fact: I'm fascinated by the limitless possibilities of creating virtual worlds.
