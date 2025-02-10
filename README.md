@@ -28,16 +28,6 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg) [WORK IN PROGRESS]
 
-## Dev Team
-
-### ![HappyCoding](https://r2.fivemanage.com/pub/cx3m5hqhh4k4.png)
-
-The development team behind my projects is called **Happycoding**, and we've been operating since 2016. We specialize in both **graphics** and **developing**, always driven by a passion for creating innovative projects together.
-
-Happycoding is a **non-profit organization**, built purely for the love of collaboration and creativity. We're always open to welcoming new collaborators who want to join this family and contribute to our exciting projects!
-
-If you're interested in joining, feel free to get in touch!
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emkeyhell)
