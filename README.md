@@ -15,6 +15,7 @@ I'm an IT enthusiast and self-taught developer. Over the past few years, I have 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![React](https://img.shields.io/badge/React-0bcde5?style=for-the-badge&logo=lua&logoColor=white)]([https://www.lua.org/](https://react.dev/))
 
 ## Tools
 
